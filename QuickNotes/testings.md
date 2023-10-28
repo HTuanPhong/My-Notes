@@ -6,7 +6,7 @@ lec-num:
 lecturer:
 ---
 [Obsidian](https://help.obsidian.md/Home), [latex math](http://tug.ctan.org/info/undergradmath/undergradmath.pdf), [more latex math](https://en.wikibooks.org/wiki/LaTeX/Mathematics), [mermaid](https://mermaid.js.org/intro/), [tikz](https://tikz.dev/), [pgfplot](https://tikz.dev/pgfplots/)  chemfig tikz-cd circuitikz and all latex package can also be used. Too bad I never found love in chemistry.
-:D
+:D Nice !
 ```latex
 \usepackage{tikz}
 \begin{document}
