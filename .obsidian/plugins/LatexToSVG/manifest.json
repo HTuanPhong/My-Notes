@@ -1,0 +1,11 @@
+{
+	"id": "latex-to-svg",
+	"name": "Latex To SVG",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Turn latex block code into svg",
+	"author": "HTuanPhong",
+	"authorUrl": "https://github.com/HTuanPhong",
+	"fundingUrl": "https://github.com/HTuanPhong",
+	"isDesktopOnly": true
+}

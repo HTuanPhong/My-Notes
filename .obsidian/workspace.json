@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "d84e962498743d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f41989ee4c71f94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bd9a55cec4ae33b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Rosen's book.md"
+              }
+            }
+          },
+          {
+            "id": "8df77c7884b80a91",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Books/Discrete-Mathematics-and-Its-Applications.pdf"
+              }
+            }
+          },
+          {
+            "id": "a6a8d077c3c9bc44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52c6ad56cf94d835",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b82fbc7ee9476e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cb4582297d88755",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f80a609371a3722",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac5f21bd130000d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "{align",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "6560c1027631c8ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb4ed46e51e4828c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdfcbcbc86314b6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Books/Discrete-Mathematics-and-Its-Applications.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed179ff8635729d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bcfaf1390f0c6cac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fd4449bf773c475f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80391f1512e6e922",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Books/Discrete-Mathematics-and-Its-Applications.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1d4d2b2eae9ba88a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b558aca30f6bd98a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Books/Discrete-Mathematics-and-Its-Applications.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "8df77c7884b80a91",
+  "lastOpenFiles": [
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Rosen's book.md",
+    "Untitled.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Books/Discrete-Mathematics-and-Its-Applications.pdf",
+    "QuickNotes/testings.md",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Chapter 1.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations",
+    "TODO/Fix popover pdf link.md",
+    "TODO/embed video.md",
+    "TODO/breadcrumbs.md",
+    "Information Technology - HCMUS/My thoughts.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Absolute C++ 6th Edition (Walter Savitch, Kenrick Mock).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Tony Gaddis-Starting out with C++ (2015) (bad book).pdf",
+    "Workflows/colors.md",
+    "index.md",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Chapter 2-3.md",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Chapter 1 1.md",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Appendix 1.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Books/Computer Science- An Overview (12th Global Edition).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/CLC_CSC10001_Nhap mon lap trinh_2020.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming - From Problem Analysis to Program Design (2011).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/index - Programming 1 - CSC10001.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Appendix C.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Main books.md",
+    "Information Technology - HCMUS/2023-2024/First semester/schedule.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Personal and Interpersonal Skills - CSC10121/index - Personal and Interpersonal Skills - CSC10121.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Exercises/Interesting enough questions.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/index - Discrete Mathematics - MTH00009.md",
+    "Workflows/quartz.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/index - Introduction to Information Technology - CSC00004.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Personal and Interpersonal Skills - CSC10121/Resources/CLC_CSC10121_Ky nag mem_Syllabus Soft Skills 2023.pdf}.md",
+    "Workflows/tikz.md",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Figures/Pasted image 20231018082215.png",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Figures/Pasted image 20231018081538.png",
+    "Workflows/obsidian format.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Hand ins/Review Questions and Exercises.md",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Figures/Pasted image 20231005095655.png",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Figures/Pasted image 20231006002736.png",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Figures/Pasted image 20231006002502.png",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Figures/Pasted image 20231006002459.png",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Figures/Pasted image 20231005234834.png",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Figures/Pasted image 20231005234553.png",
+    "Information Technology - HCMUS/taking note is bad reading book is good/Figures/Pasted image 20231005112350.png",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Pasted image 20231005112201.png",
+    "Information Technology - HCMUS/2023-2024/First semester/Untitled.canvas"
+  ]
+}

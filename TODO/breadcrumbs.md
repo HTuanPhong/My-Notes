@@ -1,0 +1,1 @@
+add breadcrumbs to site maybe something like home>folder>folder>folder>article on the top of the site
