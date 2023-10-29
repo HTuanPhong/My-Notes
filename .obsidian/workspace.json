@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "ebda12c056ba7ee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d4611b97c512ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aff5ad312603922",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aa1a2afeb91df89",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49a9e40e7ef0c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba49bd3827804ae4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2901abc81ad8f14a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba164efaee745551",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9291b6767ae056f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ef4bb5ad0dda1a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b39e2285b5341d23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a2f950fe1b7fdb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "884949d8147e8b61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efdae98bf79625e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md"
+              }
+            }
+          },
+          {
+            "id": "4f7e67f9c3a8da5f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7aff5ad312603922",
+  "lastOpenFiles": [
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Absolute C++ 6th Edition (Walter Savitch, Kenrick Mock).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations",
+    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Annotations/computer science an overview.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Books/Computer Science- An Overview (12th Global Edition).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Annotations",
+    "Workflows/git.md",
+    "TODO/READBOOKS.md",
+    "QuickNotes/testings.md",
+    "Workflows/latex math.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/index - Programming 1 - CSC10001.md",
+    "Workflows/quartz.md",
+    "TODO/embed video.md",
+    "TODO/breadcrumbs.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B1.exe",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B1.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Tony Gaddis-Starting out with C++ (2015) (bad book).pdf",
+    "Workflows/colors.md"
+  ]
+}
