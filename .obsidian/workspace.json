@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md"
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9291b6767ae056f9",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md"
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md"
               }
             }
           },
@@ -141,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 521.5
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,15 +153,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f7e67f9c3a8da5f",
+  "active": "04faf6d1b58dca71",
   "lastOpenFiles": [
-    "TODO/Focus on learning subject with books.md",
-    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
-    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/index - Discrete Mathematics - MTH00009.md",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Absolute C++ 6th Edition (Walter Savitch, Kenrick Mock).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+    "TODO/Focus on learning subject with books.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/index - Discrete Mathematics - MTH00009.md",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations",
     "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Annotations/computer science an overview.md",
     "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Books/Computer Science- An Overview (12th Global Edition).pdf",
