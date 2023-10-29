@@ -1,0 +1,1 @@
+I figured out subject taught without course book is garbage.
