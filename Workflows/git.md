@@ -28,22 +28,20 @@ git push origin main
 Pushed to GitHub.
 
 # IOS
-## initialize
-```shell
-mount -t ios-unsafe . obsidian
-```
-then choose vault
 ## normal use
 pull changes with
 ```shell
-cd ~/obsidian
-git pull
+jump obsidian
+cd Notes
+lg2 pull origin
 ```
 Work away until push
 ```shell
-git add .
-git commit -m "vault mobile backup Comments"
-git push
+jump obsidian
+cd Notes
+lg2 add .
+lg2 commit -m "vault mobile backup Comments"
+lg2 push origin
 ```
 
 # Git/Resolving Push Conflicts
