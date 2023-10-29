@@ -1,0 +1,19 @@
+.mobile-navbar-actions {
+  padding: unset;
+}
+
+.is-mobile .view-header {
+  height: 25px;
+}
+
+.is-mobile .view-actions {
+  padding: unset;
+}
+
+.is-mobile .view-header-title-container {
+  height: 25px;
+}
+
+.clickable-icon {
+  padding: 1px 6px;
+}
