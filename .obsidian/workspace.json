@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0d4611b97c512ee",
+        "id": "8c93013d00ecbcd5",
         "type": "tabs",
         "children": [
           {
-            "id": "7aff5ad312603922",
+            "id": "b7fa26f65d8b949a",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
@@ -140,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,9 +153,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7aff5ad312603922",
+  "active": "4f7e67f9c3a8da5f",
   "lastOpenFiles": [
     "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/index - Discrete Mathematics - MTH00009.md",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf",
