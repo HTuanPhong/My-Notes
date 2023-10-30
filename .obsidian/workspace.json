@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34c1965c84e66b0c",
+        "id": "de00f1f3b2af9d36",
         "type": "tabs",
         "children": [
           {
-            "id": "04faf6d1b58dca71",
+            "id": "1f8dc34b751e893c",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9291b6767ae056f9",
@@ -140,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,19 +154,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04faf6d1b58dca71",
+  "active": "ba49bd3827804ae4",
   "lastOpenFiles": [
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Absolute C++ 6th Edition (Walter Savitch, Kenrick Mock).pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B17.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B15.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B9.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B8.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B7.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B6.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B5.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B4.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B3.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B2.cpp",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Exercises/Interesting enough questions.md",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
     "TODO/Focus on learning subject with books.md",
     "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/index - Discrete Mathematics - MTH00009.md",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations",
     "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Annotations/computer science an overview.md",
-    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Books/Computer Science- An Overview (12th Global Edition).pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Annotations",
     "Workflows/git.md",
     "TODO/READBOOKS.md",
     "QuickNotes/testings.md",
@@ -174,10 +181,6 @@
     "Workflows/quartz.md",
     "TODO/embed video.md",
     "TODO/breadcrumbs.md",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B1.exe",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop/B1.cpp",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Lab/Loop",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Tony Gaddis-Starting out with C++ (2015) (bad book).pdf",
     "Workflows/colors.md"
   ]
 }
