@@ -11,9 +11,19 @@
             "id": "91cb44c0ca4c0cee",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "pdf",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md"
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf"
+              }
+            }
+          },
+          {
+            "id": "d1cade7a0f86450f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Information Technology - HCMUS/FIT-Course-Information-Handbook-Short-form-2023.pdf"
               }
             }
           }
@@ -67,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "9291b6767ae056f9",
@@ -83,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md"
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf"
               }
             }
           },
@@ -140,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 214.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,21 +165,21 @@
   },
   "active": "91cb44c0ca4c0cee",
   "lastOpenFiles": [
-    "Game Engine/Books/RayTracingGems 1.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/A Tour of C++ (Bjarne Stroustrup).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Absolute C++ 6th Edition (Walter Savitch, Kenrick Mock).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
+    "Information Technology - HCMUS/FIT-Course-Information-Handbook-Short-form-2023.pdf",
+    "Information Technology - HCMUS/CLC_DeCuongTomTat.pdf",
+    "Game Engine/Books/RayTracingGems 1.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Slides/NMCNTT-04-Networking.pdf",
     "TODO/Focus on learning subject with books.md",
     "QuickNotes/LAN drafts.md",
     "Information Technology - HCMUS/2023-2024/First semester/schedule.md",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Slide/cs101.1st.intro.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Lab/NMCNTT_TH_5-BT-Latex.pdf",
-    "Information Technology - HCMUS/CLC_DeCuongTomTat.pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Books/NMCNTT_TH_5-TaiLieuHuongDanLaTeX.pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Lab/NMCNTT_TH_1.pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Lab/Lab_03.pdf",
-    "Game Engine/Books/game-engine-architecture-3nbsped-1138035459-9781138035454_compress.pdf",
-    "Game Engine/Books/Ian_Millington-Game_Physics_Engine_Development-EN.pdf",
-    "Game Engine/Books/RayTracingGems 2.pdf",
     "Game Engine/Books.md",
     "index.md",
     "TODO/tikz on phone.md",

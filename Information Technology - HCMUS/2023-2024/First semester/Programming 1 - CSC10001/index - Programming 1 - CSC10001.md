@@ -2,9 +2,9 @@
 
 Books:
 
+- [2013 Stroustrup - The C++ Programming Language 4th Edition.pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf>)
+- [A Tour of C++ (Bjarne Stroustrup).pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/A Tour of C++ (Bjarne Stroustrup).pdf>)
 - [Absolute C++ 6th Edition (Walter Savitch, Kenrick Mock).pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Absolute C++ 6th Edition (Walter Savitch, Kenrick Mock).pdf>)
-- [C++ Programming From Problem Analysis to Program Design.pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf>)
-- [C++ Programming Program Design Including Data Structures.pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf>)
 - [Tony Gaddis-Starting out with C++ (2015) (bad book).pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Tony Gaddis-Starting out with C++ (2015) (bad book).pdf>)
 
 Lab:
