@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf"
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf"
               }
             }
           },
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9291b6767ae056f9",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf",
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf",
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf"
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf"
               }
             }
           },
@@ -165,9 +166,9 @@
   },
   "active": "91cb44c0ca4c0cee",
   "lastOpenFiles": [
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/A Tour of C++ (Bjarne Stroustrup).pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Absolute C++ 6th Edition (Walter Savitch, Kenrick Mock).pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf",
