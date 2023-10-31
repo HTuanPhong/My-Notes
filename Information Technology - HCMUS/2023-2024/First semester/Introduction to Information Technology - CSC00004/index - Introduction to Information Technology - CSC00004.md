@@ -4,11 +4,13 @@ Books:
 
 - [Computer Science- An Overview (12th Global Edition).pdf](<Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Books/Computer Science- An Overview (12th Global Edition).pdf>)
 - [NMCNTT_TH_1-HuongDanSoanThaoVanBan_P1.pdf](<Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Books/NMCNTT_TH_1-HuongDanSoanThaoVanBan_P1.pdf>)
+- [NMCNTT_TH_5-TaiLieuHuongDanLaTeX.pdf](<Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Books/NMCNTT_TH_5-TaiLieuHuongDanLaTeX.pdf>)
 
 Lab:
 
 - [Lab_03.pdf](<Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Lab/Lab_03.pdf>)
 - [NMCNTT_TH_1.pdf](<Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Lab/NMCNTT_TH_1.pdf>)
+- [NMCNTT_TH_5-BT-Latex.pdf](<Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Lab/NMCNTT_TH_5-BT-Latex.pdf>)
 
 Slides:
 

@@ -1,7 +1,3 @@
----
-title: Git workflows
-todo: need headings.
----
 # Desktop
 ## initialize
 ```shell
