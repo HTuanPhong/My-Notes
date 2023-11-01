@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9291b6767ae056f9",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
+                "file": "Information Technology - HCMUS/FIT-Course-Information-Handbook-Short-form-2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
+                "file": "Information Technology - HCMUS/FIT-Course-Information-Handbook-Short-form-2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf"
+                "file": "Information Technology - HCMUS/FIT-Course-Information-Handbook-Short-form-2023.pdf"
               }
             }
           },
@@ -164,23 +164,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91cb44c0ca4c0cee",
+  "active": "4f7e67f9c3a8da5f",
   "lastOpenFiles": [
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Tony Gaddis-Starting out with C++ (2015) (bad book).pdf",
+    "Information Technology - HCMUS/FIT-Course-Information-Handbook-Short-form-2023.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Slide/cs101.4th.loop.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/A Tour of C++ (Bjarne Stroustrup).pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Absolute C++ 6th Edition (Walter Savitch, Kenrick Mock).pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
-    "Information Technology - HCMUS/FIT-Course-Information-Handbook-Short-form-2023.pdf",
     "Information Technology - HCMUS/CLC_DeCuongTomTat.pdf",
     "Game Engine/Books/RayTracingGems 1.pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Resources/Slides/NMCNTT-04-Networking.pdf",
     "TODO/Focus on learning subject with books.md",
     "QuickNotes/LAN drafts.md",
     "Information Technology - HCMUS/2023-2024/First semester/schedule.md",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Slide/cs101.1st.intro.pdf",
     "Game Engine/Books.md",
     "index.md",
     "TODO/tikz on phone.md",
