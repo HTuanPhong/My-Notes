@@ -3,7 +3,7 @@
   "cssTheme": "Obsidian Nord",
   "translucency": false,
   "baseFontSize": 11,
-  "showViewHeader": true,
+  "showViewHeader": false,
   "nativeMenus": false,
   "enabledCssSnippets": [
     "mobile-nav"

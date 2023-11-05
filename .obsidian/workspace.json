@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "d1cade7a0f86450f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Information Technology - HCMUS/FIT-Course-Information-Handbook-Short-form-2023.pdf"
-              }
-            }
-          },
-          {
             "id": "9f014e3266171471",
             "type": "leaf",
             "state": {
@@ -43,12 +33,39 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Slides/In_Chuong 2_Tap hop va anh xa.pdf"
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Slides/In_Chuong 3_Phuong phap dem.pdf"
+              }
+            }
+          },
+          {
+            "id": "ce6f4e7cac17ce4f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Math road map.canvas",
+                "viewState": {
+                  "x": 577.4410355227886,
+                  "y": 10,
+                  "zoom": -0.8142452543875709
+                }
+              }
+            }
+          },
+          {
+            "id": "efed3023d11513e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QuickNotes/testings.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 458.5
   },
   "right": {
     "id": "9291b6767ae056f9",
@@ -115,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+                "file": "QuickNotes/testings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+                "file": "QuickNotes/testings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md"
+                "file": "QuickNotes/testings.md"
               }
             }
           },
@@ -166,9 +182,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "0ea143de4c244e67",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,19 +209,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f014e3266171471",
+  "active": "efed3023d11513e2",
   "lastOpenFiles": [
-    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Slides/In_Chuong 2_Tap hop va anh xa.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Assignments/BÀI TẬP TOÁN RỜI RẠC.pdf",
+    "Math road map.canvas",
     "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Slides/In_Chuong 3_Phuong phap dem.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Slides/In_Chuong 2_Tap hop va anh xa.pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/index - Discrete Mathematics - MTH00009.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Books/Discrete-Mathematics-and-Its-Applications.pdf",
+    "Fields/Math",
+    "Fields/Computer related",
+    "Fields",
     "Information Technology - HCMUS/FIT-Course-Information-Handbook-Short-form-2023.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Tony Gaddis-Starting out with C++ (2015) (bad book).pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Slide/cs101.4th.loop.pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/A Tour of C++ (Bjarne Stroustrup).pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/2013 Stroustrup - The C++ Programming Language 4th Edition.pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Absolute C++ 6th Edition (Walter Savitch, Kenrick Mock).pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming From Problem Analysis to Program Design.pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/C++ Programming Program Design Including Data Structures.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
     "TODO/Focus on learning subject with books.md",
     "QuickNotes/LAN drafts.md",
@@ -214,7 +241,6 @@
     "Workflows/git.md",
     "QuickNotes/testings.md",
     "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Exercises/Interesting enough questions.md",
-    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/index - Discrete Mathematics - MTH00009.md",
     "Information Technology - HCMUS/2023-2024/First semester/Introduction to Information Technology - CSC00004/Annotations/computer science an overview.md",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/index - Programming 1 - CSC10001.md",
     "Workflows/quartz.md",

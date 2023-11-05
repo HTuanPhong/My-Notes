@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"004aab4205ced4ae","type":"group","x":340,"y":-310,"width":1340,"height":790,"label":"College"},
+		{"id":"663c0d1d861eca09","type":"group","x":380,"y":-260,"width":1180,"height":320,"label":"Discrete mathematics"},
+		{"id":"34c3d47e7e062d09","type":"group","x":-600,"y":-200,"width":860,"height":180,"label":"K-12 education"},
+		{"id":"8445eaaeb5e5556e","type":"group","x":890,"y":-201,"width":240,"height":181,"label":"Basic structures"},
+		{"id":"c031a861efc6ed57","type":"text","text":"Algebra (đại số)","x":-300,"y":-180,"width":250,"height":50},
+		{"id":"e7f88b808117ac19","type":"text","text":"Calculus (giải tích)","x":-20,"y":-180,"width":250,"height":50},
+		{"id":"93846bc370c18749","type":"text","text":"Euclidean plane (hình học phẳng)","x":-300,"y":-100,"width":250,"height":50},
+		{"id":"63a1a5b4ef0e139a","type":"text","text":" Euclidean space (hình học không gian)","x":-20,"y":-100,"width":250,"height":50},
+		{"id":"6205a06bee68313d","type":"text","text":"Arithmetic (số học)","x":-580,"y":-180,"width":250,"height":50},
+		{"id":"7b76748684c51c51","type":"text","text":"This map is made in the order of my learnings through years and not how each fields relate to each other. Math is a web and every thing is related","x":-705,"y":-460,"width":250,"height":100,"color":"3"},
+		{"id":"7b54b07eb04b1283","type":"text","text":"Logic","x":413,"y":-140,"width":190,"height":50},
+		{"id":"4a395b636bf51cc1","type":"text","text":"Proofs","x":633,"y":-140,"width":190,"height":50},
+		{"id":"6ddeb104bd9b850e","type":"text","text":"[book](<Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Books/Discrete-Mathematics-and-Its-Applications.pdf>)","x":413,"y":-236,"width":250,"height":60,"color":"5"},
+		{"id":"cb8e5243bb380164","type":"text","text":"Counting","x":1200,"y":-140,"width":200,"height":50},
+		{"id":"e2e7599486864045","type":"text","text":"Naive Set Theory","x":910,"y":-180,"width":200,"height":50},
+		{"id":"1c9953672bbe81f8","type":"text","text":"Function","x":910,"y":-99,"width":200,"height":50}
+	],
+	"edges":[
+		{"id":"85c0d1d877c4d486","fromNode":"6205a06bee68313d","fromSide":"right","toNode":"c031a861efc6ed57","toSide":"left"},
+		{"id":"8dd93d82c6ecd6de","fromNode":"93846bc370c18749","fromSide":"right","toNode":"63a1a5b4ef0e139a","toSide":"left"},
+		{"id":"5c8af4f7c3e70516","fromNode":"c031a861efc6ed57","fromSide":"right","toNode":"e7f88b808117ac19","toSide":"left"},
+		{"id":"47e50e88f77a4cfc","fromNode":"7b54b07eb04b1283","fromSide":"right","toNode":"4a395b636bf51cc1","toSide":"left"},
+		{"id":"9f2aa25e7dbf23d7","fromNode":"34c3d47e7e062d09","fromSide":"right","toNode":"004aab4205ced4ae","toSide":"left"},
+		{"id":"0e4a592dd12479d2","fromNode":"4a395b636bf51cc1","fromSide":"right","toNode":"8445eaaeb5e5556e","toSide":"left"},
+		{"id":"3e5d55a264eddf2a","fromNode":"e2e7599486864045","fromSide":"bottom","toNode":"1c9953672bbe81f8","toSide":"top"},
+		{"id":"0cb69da226f98097","fromNode":"8445eaaeb5e5556e","fromSide":"right","toNode":"cb8e5243bb380164","toSide":"left"}
+	]
+}
