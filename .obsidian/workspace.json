@@ -6,6 +6,7 @@
       {
         "id": "0232a94fe378f034",
         "type": "tabs",
+        "dimension": 54.876160990712066,
         "children": [
           {
             "id": "91cb44c0ca4c0cee",
@@ -14,18 +15,6 @@
               "type": "pdf",
               "state": {
                 "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf"
-              }
-            }
-          },
-          {
-            "id": "a1d61a178c7144ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields/Algorithm/what i learned.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -63,19 +52,28 @@
                 "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/A Tour of C++ (Bjarne Stroustrup).pdf"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6a008434fd9d3237",
+        "type": "tabs",
+        "dimension": 45.123839009287934,
+        "children": [
           {
-            "id": "b172b25407600923",
+            "id": "f481dcf93f44f51f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Tony Gaddis-Starting out with C++ (2015) (bad book).pdf"
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/a.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 272.5
   },
   "right": {
     "id": "9291b6767ae056f9",
@@ -141,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fields/Algorithm/what i learned.md",
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fields/Algorithm/what i learned.md",
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fields/Algorithm/what i learned.md"
+                "file": "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf"
               }
             }
           },
@@ -202,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,29 +217,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1d61a178c7144ff",
+  "active": "4f7e67f9c3a8da5f",
   "lastOpenFiles": [
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/a.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Books/Discrete-Mathematics-and-Its-Applications.pdf",
+    "index.md",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/A Tour of C++ (Bjarne Stroustrup).pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Programming Principles and Practice Using C++ (Bjarne Stroustrup).pdf",
+    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Tony Gaddis-Starting out with C++ (2015) (bad book).pdf",
+    "Math road map.canvas",
+    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Slides/In_Chuong 3_Phuong phap dem.pdf",
     "Fields/Algorithm/what i learned.md",
     "Fields/Algorithm",
-    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Annotations/Discrete Mathematics and its Applications.md",
-    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Slides/In_Chuong 3_Phuong phap dem.pdf",
-    "Math road map.canvas",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/A Tour of C++ (Bjarne Stroustrup).pdf",
-    "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Books/Tony Gaddis-Starting out with C++ (2015) (bad book).pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Slide/cs101.5th.func.pdf",
     "QuickNotes/testings.md",
     "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Assignments/BÀI TẬP TOÁN RỜI RẠC.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Slides/In_Chuong 2_Tap hop va anh xa.pdf",
     "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/index - Discrete Mathematics - MTH00009.md",
-    "Information Technology - HCMUS/2023-2024/First semester/Discrete Mathematics - MTH00009/Resources/Books/Discrete-Mathematics-and-Its-Applications.pdf",
     "Fields/Math",
     "Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Annotations/C++ Programming From Problem Analysis to Program Design.md",
     "TODO/Focus on learning subject with books.md",
     "QuickNotes/LAN drafts.md",
     "Information Technology - HCMUS/2023-2024/First semester/schedule.md",
     "Game Engine/Books.md",
-    "index.md",
     "TODO/tikz on phone.md",
     "TODO/READBOOKS.md",
     "Workflows/colors.md",
