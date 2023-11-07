@@ -20,6 +20,7 @@ Slide:
 - [cs101.1st.intro.pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Slide/cs101.1st.intro.pdf>)
 - [cs101.2nd.basic.pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Slide/cs101.2nd.basic.pdf>)
 - [cs101.4th.loop.pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Slide/cs101.4th.loop.pdf>)
+- [cs101.5th.func.pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Slide/cs101.5th.func.pdf>)
 - [cs201.3rd.ifelse.pdf](<Information Technology - HCMUS/2023-2024/First semester/Programming 1 - CSC10001/Resources/Slide/cs201.3rd.ifelse.pdf>)
 
 Slides (reference):
